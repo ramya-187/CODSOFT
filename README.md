@@ -21,11 +21,12 @@ This repository contains all the tasks and projects completed during my **CodSof
 ---
 
 ## 🚀 Tasks
-### 🔹 Task 1: [Task Title]
-- **Description:** [Brief about the task]
+### 🔹 Task 1: Student Performance Analysis
+- **Description:** In this task, a dataset of student marks in three subjects (Maths, Science, English) was created and analyzed using Pandas and NumPy. Descriptive statistics were computed, and a bar chart was plotted using Matplotlib to visualize subject-wise performance. This helps in identifying variations in student performance across subjects.
 - **Tech Stack:** Python, Pandas, Numpy, Matplotlib
 - **Output Screenshot:**  
-  ![Task-1 Screenshot](Task-1/output.png)
+  ![WhatsApp Image 2025-09-12 at 8 04 18 PM](https://github.com/user-attachments/assets/02659f86-e102-4d79-a5df-5294c03cd950)
+
 
 ### 🔹 Task 2: [Task Title]
 - **Description:** [Brief about the task]
