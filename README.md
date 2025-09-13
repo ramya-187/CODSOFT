@@ -28,11 +28,12 @@ This repository contains all the tasks and projects completed during my **CodSof
   ![WhatsApp Image 2025-09-12 at 8 04 18 PM](https://github.com/user-attachments/assets/02659f86-e102-4d79-a5df-5294c03cd950)
 
 
-### 🔹 Task 2: [Task Title]
-- **Description:** [Brief about the task]
+### 🔹 Task 2: Iris Dataset Classification
+- **Description:** In this task, the famous Iris dataset is used for classification. The dataset contains measurements of iris flowers (sepal length, sepal width, petal length, petal width) and the goal is to classify them into three species: Setosa, Versicolor, and Virginica. A machine learning model is trained using Scikit-learn, and visualizations are created using Seaborn.
 - **Tech Stack:** Python, Scikit-learn, Seaborn
 - **Output Screenshot:**  
-  ![Task-2 Screenshot](Task-2/output.png)
+  ![WhatsApp Image 2025-09-13 at 1 15 13 PM](https://github.com/user-attachments/assets/9b3a7452-b2c1-4208-b5a7-5e03f11f25f7)
+
 
 ### 🔹 Task 3: [Task Title]
 - **Description:** [Brief about the task]
