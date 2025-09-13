@@ -127,5 +127,5 @@ Links are also saved in `Extras/demo_video_links.txt`.
 ---
 
 ## 🔗 Connect
-- **LinkedIn:** https://linkedin.com/in/kolapaka-ramya-sri
-- **GitHub:** https://github.com/ramya-187
+- **LinkedIn:** www.linkedin.com/in/kolapaka-ramya-sri-03584b342
+- **GitHub:** https://github.com/ramya-187/CODSOFT/blob/main/README.md
