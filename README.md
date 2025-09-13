@@ -35,11 +35,12 @@ This repository contains all the tasks and projects completed during my **CodSof
   ![WhatsApp Image 2025-09-13 at 1 15 13 PM](https://github.com/user-attachments/assets/9b3a7452-b2c1-4208-b5a7-5e03f11f25f7)
 
 
-### 🔹 Task 3: [Task Title]
-- **Description:** [Brief about the task]
+### 🔹 Task 3: House Price Prediction
+- **Description:**In this task, a simple regression model is built to predict house prices based on features like area and number of bedrooms. A sample dataset is created, and the model is trained using Linear Regression from Scikit-learn. Finally, predictions and a visualization are generated.
 - **Tech Stack:** Python, ML Libraries
 - **Output Screenshot:**  
-  ![Task-3 Screenshot](Task-3/output.png)
+![WhatsApp Image 2025-09-13 at 1 23 57 PM](https://github.com/user-attachments/assets/4d3cf1b5-1fcc-4818-9252-61a4f621a199)
+
 
 ---
 
